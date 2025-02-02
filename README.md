@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**gaouservbf/gaouservbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gaouser, a C++, VB6 and Win32 API developer, aswell as an HTML4.01 "web designer
 
-Here are some ideas to get you started:
+My Projects:
+The Adventures of Android 8.1.0 2 [Private Repo]
+EveryDiscord
+DXCraft
+GaoMessenger
+GaoDirect
+GaoIM
+CfmOS [Hiatus due to Tactility]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
