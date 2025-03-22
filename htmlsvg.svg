@@ -1,40 +1,35 @@
-<svg  xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
   <foreignObject class="node" x="0" y="0" width="100%" height="100%">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&amp;display=swap" type="text/css" />
-<style>
-
-.robotofont {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-</style>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&amp;display=swap" type="text/css" />
+    <style>
+      .robotofont {
+        font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400; /* Replace <weight> with a specific value */
+        font-style: normal;
+        font-variation-settings: "wdth" 100;
+      }
+    </style>
     <body xmlns="http://www.w3.org/1999/xhtml">
-      <table class=robotofont width="100%" height="100%">
-      <tr>
-      <td>
-      <table>
-      <tr>
-      <td>
-    TAoA 8.1.0 2
-    </td>
-    </tr>
-    </table>
-      </td>
-      <td>
-    <h1> Hi there 👋</h1>
-
-<p>I'm Gaouser, a C++, VB6 and Win32 API developer, aswell as an HTML4.01 "web designer"</p>
-<p> I love using the Windows API in VB6</p>
-<p>Declare is my favourite keyword in VB6!</p>
-<p>I love Windows XP SP3, it's one of my favorite operating systems! aswell as </p>
-      </td>
-      </tr>
+      <table class="robotofont" width="100%" height="100%">
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>TAoA 8.1.0 2</td>
+              </tr>
+            </table>
+          </td>
+          <td>
+            <h1>Hi there 👋</h1>
+            <p>I'm Gaouser, a C++, VB6 and Win32 API developer, as well as an HTML4.01 "web designer"</p>
+            <p>I love using the Windows API in VB6</p>
+            <p>Declare is my favourite keyword in VB6!</p>
+            <p>I love Windows XP SP3, it's one of my favorite operating systems!</p>
+          </td>
+        </tr>
       </table>
     </body>
   </foreignObject>
