@@ -18,3 +18,4 @@ GaoIM
 CfmOS [Hiatus due to Tactility]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaouservbf&theme=dark)
+![stuff](https://raw.githubusercontent.com/gaouservbf/gaouservbf/refs/heads/main/htmlsvg.svg)
