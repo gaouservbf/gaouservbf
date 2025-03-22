@@ -17,4 +17,4 @@ GaoIM
 
 CfmOS [Hiatus due to Tactility]
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=gaouservbf&theme=dark)
+[https://github-readme-stats.vercel.app/api/top-langs/?username=gaouservbf&theme=dark]
