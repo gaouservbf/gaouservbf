@@ -11,8 +11,8 @@
         font-variation-settings: "wdth" 100;
       }
     </style>
-    <body xmlns="http://www.w3.org/1999/xhtml" style="background: linear-gradient(to bottom, #335DA7, #78c557); min-height: vh; min-width: vw;">
-      <table class="robotofont" width="100%" height="100%" style=" border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+    <body xmlns="http://www.w3.org/1999/xhtml" leftmargin="0" topmargin="0" style="background: linear-gradient(to bottom, #335DA7, #78c557); min-height: vh; min-width: vw; border-radius: 10;">
+      <table class="robotofont" width="500" height="700" style=" border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; border-radius: 50;">
         <tr valign="top" height="100%" width="100%" style=" border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
           <td height="100%" width="25%" style=" border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
             <table width="100%">
@@ -24,7 +24,7 @@
               </tr>
             </table>
           </td>
-          <td width="100%" style="color:white;">
+          <td width="100%" height="100%" style="color:white;">
             <h1>Hi there 👋</h1>
             <p>I'm Gaouser, a C++, VB6 and Win32 API developer, as well as an HTML4.01 "web designer"</p>
             <p>I love using the Windows API in VB6</p>
