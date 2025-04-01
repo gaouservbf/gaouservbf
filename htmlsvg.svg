@@ -180,9 +180,9 @@
       <text x="215" y="34" class="lang-name">5.83%</text>
       
     <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"/>
+      <rect x="0" y="0" width="205" height="8" fill="#ddd"/>
       <svg data-testid="lang-progress" width="5.83%">
-        <rect height="8" fill="#e34c26" rx="5" ry="5" x="0" y="0" class="lang-progress" style="animation-delay: 1350ms;"/>
+        <rect height="8" fill="#e34c26" x="0" y="0" class="lang-progress" style="animation-delay: 1350ms;"/>
       </svg>
     </svg>
   
